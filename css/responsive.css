@@ -588,6 +588,6 @@
 }
 @media only screen and (max-width:480px) {
   .particles-js-canvas-el {
-    height: 440px !important;
+    height: 460px !important;
   }
 }
