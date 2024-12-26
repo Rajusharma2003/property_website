@@ -1,4 +1,4 @@
-/* @media only screen and (max-width:1500px) {}
+@media only screen and (max-width:1500px) {}
 @media only screen and (max-width:991) {}
 @media only screen and (max-width:767px) {
   .foot-sec{
@@ -108,9 +108,13 @@
     display: none
   }
   .banner-text h2, .banner-text h1 {
+    /* font-size: 25px;
+    line-height: 28px;
+    margin-bottom: 0; */
     font-size: 25px;
     line-height: 28px;
     margin-bottom: 0;
+    
   }
   .list-sal ul li h3 {
     font-size: 28px;
@@ -148,7 +152,7 @@
   .list-sal .lpa {
     padding: 30px 0px 50px;
   }
-  .about-university > div {
+  .about-university2 > div {
     margin-top: 0;
   }
   .INNOVATIONS .owl-dots {
@@ -167,7 +171,7 @@
     margin: 0;
     height: auto;
   }
-  .about-university .heading p {
+  .about-university2 .heading p {
     padding: 20px 20px 60px 20px;
     font-size: 14px;
     line-height: 22px;
@@ -180,12 +184,12 @@
     width: 150px;
     right: -20px;
   }
-  .about-university h2 {
+  .about-university2 h2 {
     padding: 10px 10px;
     width: 100%;
     text-align: left;
   }
-  .about-university {
+  .about-university2 {
     overflow: hidden;
   }
   .list_li ul {
@@ -590,4 +594,4 @@
   .particles-js-canvas-el {
     height: 460px !important;
   }
-} */
+}

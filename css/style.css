@@ -2,12 +2,12 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-        /* *{
+        *{
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        body{
+        /* body{
             width: 100%;
             height: 100vh;
             display: grid;
@@ -527,7 +527,7 @@ h2 {
     width: 100%;
 }
 
-.about-university h2 {
+.about-university2 h2 {
     background: #3b1a6f;
     color: #fff;
     display: inline-block;
@@ -537,7 +537,7 @@ h2 {
     margin: 0;
 }
 
-.about-university .heading p {
+.about-university2 .heading p {
     background: #43cfcf;
     color: #fff;
     padding: 50px 200px 50px 330px;
@@ -545,7 +545,7 @@ h2 {
     line-height: 25px;
 }
 
-.about-university > div {
+.about-university2 > div {
     position: relative;
     margin-top: -80px;
 }
@@ -653,7 +653,7 @@ li i{
 }
 .properties{
     width: 300px;
-    height: 600px;
+    /* height: 600px; */
 }
 .flex{
     display: flex;
